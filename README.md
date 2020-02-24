@@ -1,2 +1,4 @@
 # Digit-Recognition
-Kaggle Competition, achieved 99%+ Accuracy by CNN
+Classical MNIST dataset, achieved 99%+ Accuracy by CNN
+
+
